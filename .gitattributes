@@ -1,2 +1,0 @@
-Scene.arm filter=lfs diff=lfs merge=lfs -text
-pole1.png filter=lfs diff=lfs merge=lfs -text
